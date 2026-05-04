@@ -37,8 +37,8 @@ A Flutter-based productivity app that helps users build consistency through dail
 - Local data persistence
 - ## 📱 App Preview
 
-![Home](screenshots/home.png)
-![Tasks](screenshots/tasks.png)
+![Home](streakBot.png)
+![Tasks](streakBot.png)
 - JSON data handling
 - UI/UX structuring
 - Real-world app logic design (streak system)
